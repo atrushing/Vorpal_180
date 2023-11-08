@@ -4,6 +4,7 @@
 
 ![Vorpal 180](https://github.com/atrushing/Vorpal_180/blob/main/Pictures/Vorpal_180.jpg?raw=true)
 
+
 ## Features:
 
 - Print volume: 180 x 180 x 200mm
@@ -30,8 +31,8 @@
 
 - Manta M8P control board
 
-.
 
-Learn more and follow the development process on [TeamFDM.com](https://www.teamfdm.com/forums/topic/1886-vorpal-180-a-printed-printer/))
+
+Learn more and follow the development process on [TeamFDM.com](https://www.teamfdm.com/forums/topic/1886-vorpal-180-a-printed-printer/)
 
 [Support me](https://paypal.me/atrushing)
