@@ -2,7 +2,7 @@
 
     A printed printer
 
-![](/home/alan/Things/Vorpal_180/github/Vorpal-180/Pictures/Vorpal_180.jpg)
+![Vorpal 180](https://github.com/atrushing/Vorpal_180/blob/main/Pictures/Vorpal_180.jpg?raw=true)
 
 ## Features:
 
@@ -26,12 +26,12 @@
 
 - Hidden handles in side skirts
 
-- [Mini Stealth]([Mini Stealth - Orbiter 2.0 - Printable Voron User Mods - Team FDM](https://www.teamfdm.com/files/file/612-mini-stealth-orbiter-20/)) toolhead compatible
+- [Mini Stealth](https://www.teamfdm.com/files/file/612-mini-stealth-orbiter-20/) toolhead compatible
 
 - Manta M8P control board
 
 .
 
-Learn more and follow the development process on [TeamFDM.com]([Vorpal 180 - A Printed Printer - Build Diaries - Team FDM](https://www.teamfdm.com/forums/topic/1886-vorpal-180-a-printed-printer/))
+Learn more and follow the development process on [TeamFDM.com](https://www.teamfdm.com/forums/topic/1886-vorpal-180-a-printed-printer/))
 
-[Support me]([PayPal.Me](https://paypal.me/atrushing))
+[Support me](https://paypal.me/atrushing)
