@@ -1,4 +1,4 @@
-# Vorpal 180         -- PRE-RELEASE --
+# Vorpal 180 -- PRE-RELEASE --
 
     A printed printer
 
@@ -32,7 +32,7 @@
 - Manta M8P control board
 
 
-
+.
 Learn more and follow the development process on [TeamFDM.com](https://www.teamfdm.com/forums/topic/1886-vorpal-180-a-printed-printer/)
 
 [Support me](https://paypal.me/atrushing)
